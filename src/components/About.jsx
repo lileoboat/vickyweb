@@ -1,4 +1,4 @@
-import ProfilePic from '../assets/Profile.jpg';
+import ProfilePic from '../assets/profile.jpg';
 function About() {
   return (
     <section id="about" className="about">
